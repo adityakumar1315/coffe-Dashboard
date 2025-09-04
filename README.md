@@ -34,5 +34,5 @@ A comprehensive interactive dashboard that visualizes sales performance, profita
 ⚠️ Cubify CubeX & Motorola Smart Products → Top loss-making products.
 
 6. Screeshots/Demo
-   link:- 
+   link:- https://github.com/adityakumar1315/coffe-Dashboard/blob/main/Screenshot%20of%20coffe_dashboard.png
     
